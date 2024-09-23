@@ -1,4 +1,4 @@
-### starter
+### Starter
 Basic setup with 
 * laravel
 * vuejs
@@ -10,7 +10,6 @@ Basic setup with
 * inertiajs
 * migrations
 * seeders
-* 
 
 ## Prerequisites
 * PHP version: 8.2.12
