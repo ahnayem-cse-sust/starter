@@ -1,5 +1,5 @@
-<h1 align="center"> Starter </h1>
-Basic setup with 
+<h1 align="left"> Starter </h1>
+## Basic setup 
 * laravel
 * vuejs
 * multi auth
