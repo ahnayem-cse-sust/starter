@@ -1,4 +1,4 @@
-### Starter
+<h1 align="center"> Starter </h1>
 Basic setup with 
 * laravel
 * vuejs
