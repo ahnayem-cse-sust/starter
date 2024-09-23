@@ -1,5 +1,16 @@
-## starter
-Basic setup with multi auth and permissions. 
+### starter
+Basic setup with 
+* laravel
+* vuejs
+* multi auth
+* different login page for admin and user
+* permission check on controller
+* service layer
+* response from service and controller
+* inertiajs
+* migrations
+* seeders
+* 
 
 ## Prerequisites
 * PHP version: 8.2.12
